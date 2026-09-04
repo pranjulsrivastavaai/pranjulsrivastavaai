@@ -3,10 +3,10 @@
 
 Email Me 👉 ✉️ **pranjulsrivastava1701@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on:** Real time vehicle counting using YOLO and Open CV
 - 🌱 **I’m currently learning:** Python
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 👯 **I’m looking to collaborate on:** Real time vehicle counting using YOLO and Open CV
+- 🤔 **I’m looking for help with:** Real time vehicle counting using YOLO and Open CV
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** pranjulsrivastava1701@gmail.com
 - 😄 **Pronouns:** explorer pranjul
